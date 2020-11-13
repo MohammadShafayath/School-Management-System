@@ -1,0 +1,80 @@
+{
+  "header": [
+    {
+      "name": "name",
+      "title": "Grade Name",
+      "sortable": true
+    },
+    {
+      "name": "point",
+      "title": "Grade Point",
+      "sortable": true
+    },
+    {
+      "name": "from",
+      "title": "Percent From",
+      "sortable": true
+    },
+    {
+      "name": "upto",
+      "title": "Percent Upto",
+      "sortable": true
+    },
+    {
+      "name": "comment",
+      "title": "Comment",
+      "sortable": true
+    }
+  ],
+  "data": [
+    [
+      "A+",
+      "5.00",
+      "80",
+      "100",
+      "Excelent"
+    ],
+    [
+      "A",
+      "4.50",
+      "70",
+      "79",
+      "Very Good"
+    ],
+    [
+      "A-",
+      "4.00",
+      "60",
+      "69",
+      "Good"
+    ],
+    [
+     "B",
+      "3.50",
+      "50",
+      "59",
+      "Average"
+    ],
+    [
+      "C",
+      "3.00",
+      "40",
+      "49",
+      "Need Upgrade"
+    ],
+    [
+     "D",
+      "2.50",
+      "33",
+      "39",
+      "Not Good"
+    ],
+    [
+      "F",
+      "0.00",
+      "0",
+      "32",
+      "Failed"
+    ]
+  ]
+}
